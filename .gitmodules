@@ -1,0 +1,3 @@
+[submodule "Snowbull.Core"]
+	path = Snowbull.Core
+	url = git@github.com:Snowbull/Snowbull.Core.git
