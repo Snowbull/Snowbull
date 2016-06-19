@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowbull", "Snowbull.Core\Snowbull.Core.csproj", "{5D6A1CF7-1324-4996-AB04-F446BC5CD73B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowbull.Core", "Snowbull.Core\Snowbull.Core.csproj", "{5D6A1CF7-1324-4996-AB04-F446BC5CD73B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowbull.Console", "Snowbull.Console\Snowbull.Console.csproj", "{E44D5C75-3F73-485F-A71E-9764EDB408A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +15,9 @@ Global
 		{5D6A1CF7-1324-4996-AB04-F446BC5CD73B}.Debug|x86.Build.0 = Debug|x86
 		{5D6A1CF7-1324-4996-AB04-F446BC5CD73B}.Release|x86.ActiveCfg = Release|x86
 		{5D6A1CF7-1324-4996-AB04-F446BC5CD73B}.Release|x86.Build.0 = Release|x86
+		{E44D5C75-3F73-485F-A71E-9764EDB408A5}.Debug|x86.ActiveCfg = Debug|x86
+		{E44D5C75-3F73-485F-A71E-9764EDB408A5}.Debug|x86.Build.0 = Debug|x86
+		{E44D5C75-3F73-485F-A71E-9764EDB408A5}.Release|x86.ActiveCfg = Release|x86
+		{E44D5C75-3F73-485F-A71E-9764EDB408A5}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
